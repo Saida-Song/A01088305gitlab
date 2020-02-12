@@ -12,3 +12,6 @@
     cursor: pointer;
   }
   
+  .card-title {
+    color: red;
+  }
