@@ -1,0 +1,2 @@
+Github uses Markdown syntax to deal with description and comments of issues and pull requests, which makes it easier to work with content on GitHub.com.
+compared with txt, Markdown syntax can style text on the web. Although HTML can do the same, Markdown syntax has a more easy way to do it. Github prefers Markdown syntax because of it's user-friendlyness.
